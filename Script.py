@@ -8,7 +8,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\n𝙅𝙖𝙜𝙜𝙞"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/BackupByJaggi>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/BackupByJaggi>ᴍʀ.𝙅𝘼𝙂𝙂𝙄</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
@@ -17,7 +17,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     SOURCE_TXT = """<b>NOTE:</b>
 - BackupByJaggi› :<a href=https://t.me/BackupByJaggi>𝘽𝙖𝙘𝙠𝙪𝙥𝘽𝙮𝙅𝙖𝙜𝙜𝙞</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/BackupByJaggi>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>ᴅᴇᴠ:: <a herf=https://t.me/BackupByJaggi>𝙅𝘼𝙂𝙂𝙄</a></b>"""
 
     FILE_TXT = """<b>➤ 𝙅𝙖𝙜𝙜𝙞𝙀𝙙𝙞𝙩𝙨</b>
 
